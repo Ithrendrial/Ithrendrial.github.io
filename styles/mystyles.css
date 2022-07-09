@@ -33,8 +33,6 @@ p {
   display: table;
 }
 
-/* Links */
-
 /* Heading Style */
 h1 {
   font-family: calibri light;
@@ -50,15 +48,24 @@ h1 {
 }
 
 /* The sidebar menu */
-.blue {
-  height: 10em;
-  width: 100%;
-  position: fixed;
-  top: 0;
-  left: 0;
+.topnav {
   background-color: rgb(33, 43, 81);
-  overflow-x: hidden;
-  
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  color: rgb(157, 167, 204;
 }
 
 /* Sidebar Image */
