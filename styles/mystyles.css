@@ -8,7 +8,7 @@ body {
   font-size: 0.8em;
   letter-spacing: 0.2em;
   line-height: 1.5em;
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   background-color: #FFFFFF
 }
 
@@ -52,34 +52,6 @@ h1 {
   border-bottom: thin solid rgb(231, 80, 10);
 }
 
-/* Decorative Side Line */
-.sideline1 {
-  height: 35%;
-  width: 2%;
-  position: fixed;
-  z-index: 1;
-  right: 0;
-  top: 0;
-  background-color: #20202200;
-  overflow-x: hidden;
-  border-left: thin solid rgb(231, 80, 10); 
-}
-
-/* Decorative Side Line */
-.sideline2 {
-  height: 65%;
-  width: 2%;
-  position: fixed;
-  z-index: 2;
-  right: 0;
-  bottom: 0;
-  background-color: #20202200;
-  overflow-x: hidden;
-  border-left: thin dashed #39393b;
-  
-}
-
-
 /* The sidebar menu */
 .orange {
   height: 100%;
@@ -118,7 +90,7 @@ h1 {
 
 /* Hover Colour */
 .sidenav a:hover {
-  color: #000000;
+  color: #9cb5cf;
 }
 
 /* Sidebar Image */
@@ -206,6 +178,6 @@ td, th {
 }
 
 a:link {
-  color: rgb(255, 255, 255) }
+  color: rgb(0, 0, 0) }
 a:visited {
-  color: rgb(255, 255, 255) }
+  color: rgb(0, 0, 0) }
