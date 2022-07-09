@@ -68,7 +68,7 @@ h1 {
   left: 0;
   background-color: rgba(33, 43, 81, 0);
   overflow-x: hidden;
-  float: left;
+
 }
 
 /* Nav Links */
@@ -81,6 +81,7 @@ h1 {
   letter-spacing: 0.2em;
   color: #ffffff;
   display: block;
+  float: left;
 }
 
 /* Hover Colour */
