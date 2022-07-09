@@ -34,10 +34,6 @@ p {
 }
 
 /* Links */
-a:link {
-  color: rgb(255, 255, 255) }
-a:visited {
-  color: rgb(255, 255, 255) }
 
 /* Heading Style */
 h1 {
@@ -55,8 +51,8 @@ h1 {
 
 /* The sidebar menu */
 .orange {
-  height: 100%;
-  width: 30em;
+  height: 200em;
+  width: 100%;
   position: fixed;
   z-index: 1;
   left: 0;
@@ -66,8 +62,8 @@ h1 {
   
 }
  .sidenav {
-  height: 100%;
-  width: 30em;
+  height: 30em;
+  width: 100%;
   position: fixed;
   z-index: 3;
   left: 0;
