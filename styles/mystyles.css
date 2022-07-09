@@ -50,20 +50,10 @@ h1 {
 }
 
 /* The sidebar menu */
-.sidenav {
-  height: 100%;
-  width: 30em;
-  position: fixed;
-  z-index: 3;
-  left: 0;
-  bottom: 0;
-  background-color: rgba(231, 80, 10, 0);
-  overflow-x: hidden;
-}
-
-/* Hover Colour */
-.sidenav a:hover {
-  color: #9cb5cf;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 /* Sidebar Image */
