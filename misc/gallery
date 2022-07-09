@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+  <title>Gallery</title>
+  	<link rel="stylesheet" href="../styles/mystyles.css">
+  </head>
+
+<body>
+<!-- Site navigation menu -->
+
+<div class="orange"></div>
+
+<img src="../images\polygon-white.png" class="imgsideback">
+  
+<div class="sidenav">
+  <li><a href="../index.html">Home</a>
+  <li><a href="topic.html" style = "font-family: calibri;">About Us</a>
+  <li><a href="gallery.html" style = "font-family: calibri;><b>"Gallery</b></a>
+  <li><a href="topic.html" style = "font-family: calibri;>"Testimonials</a>
+  <li><a href="topic.html" style = "font-family: calibri;>"Contact Us</a>
+</div>
+
+<!-- Main content -->
+<h1>Gallery</h1>
+<div id="underline"></div><br><br>
+</body>
+  
+</html>
