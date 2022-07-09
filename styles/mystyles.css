@@ -18,7 +18,8 @@ h1 {
 
 /*Body Style*/
 p { 
-padding-left: 30px;
+padding: 0px 30px 30px 30px;
+
 }
 
 /* Heading Underline */
@@ -39,7 +40,7 @@ padding-left: 30px;
   color: #FFFFFF;
   text-align: center;
   text-decoration: none;
-  padding: 15px 15px;
+  padding: 20px 20px 20px 20px;
   font-size: 17px;
 }
 
@@ -49,4 +50,9 @@ padding-left: 30px;
 
 .topnav a.active {
   font-weight: bold;
+}
+
+.header {
+  padding: 60px;
+  background: #ffffff;
 }
