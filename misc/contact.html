@@ -6,6 +6,7 @@
   </head>
 
 <body>
+  <div class="header"></div> 
 
 <!-- Site navigation menu -->
 <div class="topnav">
@@ -19,7 +20,23 @@
 <!-- Main content -->
 <h1>Contact Us</h1>
 
-<p>This is a test. </p>
+<p>
+  
+
+  <div class="container">
+    <form action="https://formsubmit.co/youremail@email.com" method="POST">
+      <label for="Name">Full Name*</label>
+      <input type="text" name="Name" required>
+  
+      <label for="Email">Email*</label><br>
+      <input type="email" name="Email" required>
+
+      <textarea name="subject" placeholder="Leave a message..." style="height:200px" required></textarea>
+  
+      <button type="submit">Submit</button>
+    </form>
+  </div>  
+</p>
 </body>
 
 </html>
