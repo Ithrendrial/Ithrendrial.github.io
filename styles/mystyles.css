@@ -61,22 +61,6 @@ h1 {
   
 }
 
-/* Nav Links */
-.sidenav a {
-  text-align: centre;
-  text-decoration: none;
-  font-size: 1.3em;
-  letter-spacing: 0.2em;
-  color: #ffffff;
-  display: block;
-  float: left;
-}
-
-/* Hover Colour */
-.sidenav a:hover {
-  color: #000000;
-}
-
 /* Sidebar Image */
 .imgside {
   width: 30em;
