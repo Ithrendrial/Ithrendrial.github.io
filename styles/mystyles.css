@@ -1,6 +1,9 @@
 /*Body Style */
 body {
-  margin: 0;
+  padding-top: 1em;
+  padding-bottom: 5em;
+  padding-left: 35em;
+  padding-right: 4em;
   font-family: calibri light;
   font-size: 1.1em;
   letter-spacing: 0.2em;
