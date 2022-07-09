@@ -7,16 +7,8 @@ body {
   color: rgb(0, 0, 0);
 }
 
-p{
-  padding-bottom: 1em;
-  padding-left: 1em;
-  padding-right: 1em;
-}
-
 /* Heading Style */
 h1 {
-  padding-left: 1em;
-  padding-right: 1em;
   font-family: calibri light;
   font-size: 2em;
   color: rgb(0, 46, 93)
