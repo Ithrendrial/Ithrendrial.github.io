@@ -51,7 +51,7 @@ h1 {
 
 /* The sidebar menu */
 .orange {
-  height: 5em;
+  height: 10em;
   width: 100%;
   position: fixed;
   top: 0;
@@ -61,12 +61,11 @@ h1 {
   
 }
  .sidenav {
-  height: 100%;
-  width: 30em;
+  height: 10em;
+  width: 100%;
   position: fixed;
-  z-index: 3;
+  top: 0;
   left: 0;
-  bottom: 0;
   background-color: rgba(231, 80, 10, 0);
   overflow-x: hidden;
 }
