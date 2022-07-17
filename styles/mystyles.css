@@ -75,12 +75,7 @@ button[type=submit] {
   cursor: pointer;
 }
 
-input[type=submit]:hover {
-  background-color: rgb(51, 62, 107);
-}
-
 .container {
-  
   padding: 1.5em;
   width: 40%;
   position: absolute;
